@@ -1,6 +1,6 @@
 'use strict';
 
-var connectionString = 'HostName=IoThubCisterna.azure-devices.net;DeviceId=SensorQualidadeAgua;SharedAccessKey=SuT1iNDyFLipuM4lgnyW6AtKdBLnm+9pp5nPoZ8CCv4=';
+var connectionString = 'HostName=IoThubCisterna.azure-devices.net;DeviceId=SensorQualidadeAgua;SharedAccessKey=xxxxxxx';
 
 var Mqtt = require('azure-iot-device-mqtt').Mqtt;
 var DeviceClient = require('azure-iot-device').Client;
